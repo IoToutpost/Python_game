@@ -62,7 +62,6 @@ while True:
 
 
   if move[0] == '去':
-  
     if move[1] in locations[currentLocation]:
       currentLocation = locations[currentLocation][move[1]]
     else:
