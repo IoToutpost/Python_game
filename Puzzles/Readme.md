@@ -1,7 +1,6 @@
 # Python_game
 
 ## Puzzles
-## Text-Adventure
 
 
 Game code of python.
