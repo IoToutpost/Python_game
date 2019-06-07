@@ -1,5 +1,8 @@
 # Python_game
+
+# Puzzles
 # Text-Adventure
+
 
 Game code of python.
 
@@ -26,4 +29,4 @@ Follow us on Sina Weibo & WeChat:
 
 @IoT前哨站
 
-We focus on the IOT,software development and education.
+We focus on the IoT,software development and education.
