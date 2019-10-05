@@ -2,12 +2,10 @@
 
 ## Puzzles
 ## Text-Adventure
+## Sprint
 
 
 Game code of python.
-
-The original code by Andrew Gillett.<br>
-The Chinese edition by Medivh & Winter.
 
 
 You can run them on PC or Raspberry pi.<br>
