@@ -1,4 +1,5 @@
-# Wireframe-23
+# Sprint game
+
 Projects and assets from Wireframe #23
 
 Source Code: Make a keyboard-bashing sprint game, pages 40-41, by Rik Cross
