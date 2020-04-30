@@ -10,7 +10,8 @@ SCALE = 75
 
 # 在跑道上以特定距离显示图像的函数。
 def displayAt(img, pos, y):
-    screen.blit(img,(sprinter.x + (pos * SCALE) - (sprinter.distance * SCALE), y))
+    screen.blit(img,(sprinter.x + (pos * SCALE)
+                     - (sprinter.distance * SCALE), y))
 
 class Sprinter(Actor):
     def __init__(self, **kwargs):
