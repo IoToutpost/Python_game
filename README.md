@@ -5,7 +5,7 @@
 ## Sprint
 ## Source-code-lunar-lander
 ## Jetpac
-## source-code-galaxian
+## Source-code-galaxian
 
 
 Game code of python.
